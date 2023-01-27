@@ -33,7 +33,7 @@
          <a href="https://www.showwcase.com/uvacoder" target="_blank"
             class="f8 grow no-underline br-pill ph3 pv2 mb2 dib white bg-green-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Showwcase</a>
          <a href="https://stackoverflow.com/users/17330377/uvacoder" target="_blank"
-            class="f grow no-underline br-pill ph3 pv2 mb2 dib white bg-pink-800 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackoverflow</a>
+            class="f grow no-underline br-pill ph3 pv2 mb2 dib white bg-pink-300 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackoverflow</a>
          <a href="https://stackblitz.com/@Uvacoder" target="_blank"
             class="f8 grow no-underline br-pill ph3 pv2 mb2 dib white bg-indigo-400 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackblitz</a>
          
